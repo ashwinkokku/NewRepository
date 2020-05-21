@@ -22,11 +22,19 @@ public class TestNG {
 	}
 	
 	@Test
+
 	public void chileBranch2() {
 	
 	System.out.println(childbranche2");
 		
 		
+=======
+	public void childBranch1() {
+	
+	
+		
+		System.out.println("from hub on child branch 1 ");
+
 	
 	}
 	
