@@ -7,6 +7,7 @@ public class TestNG {
 	public void method1() {
 		
 		System.out.println("git hub");
+		System.out.println("Added");
 		
 		System.out.println("Changes from the remote HUB");
 		
