@@ -21,4 +21,13 @@ public class TestNG {
 	
 	}
 	
+	@Test
+	public void childBranch1() {
+	
+	
+		
+		System.out.println("from hub on child branch 1 ");
+	
+	}
+	
 }
