@@ -15,6 +15,8 @@ public class TestNG {
 	public void method2() {
 	
 	System.out.println("from eclipse to hub 2");
+		
+		System.out.println("from hub to eclipse 2");
 	
 	}
 	
