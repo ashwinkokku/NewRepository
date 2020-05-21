@@ -11,5 +11,11 @@ public class TestNG {
 		System.out.println("Changes from the remote HUB");
 		
 	}
-
+	@Test
+	public void method2() {
+	
+	System.out.println("from eclipse to hub 2");
+	
+	}
+	
 }
