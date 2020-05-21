@@ -21,4 +21,13 @@ public class TestNG {
 	
 	}
 	
+	@Test
+	public void chileBranch2() {
+	
+	System.out.println(childbranche2");
+		
+		
+	
+	}
+	
 }
