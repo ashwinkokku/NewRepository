@@ -21,4 +21,11 @@ public class TestNG {
 	
 	}
 	
+	@Test
+	public void Newmethod() {
+	
+		NewMethod");
+	
+	}
+	
 }
